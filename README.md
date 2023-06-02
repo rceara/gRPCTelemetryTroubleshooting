@@ -1,1 +1,1 @@
-# gRPC Telemetry Troubleshooting for Cisco IOS XE dvices #
+# gRPC Telemetry Troubleshooting for Cisco Wireless IOS XE dvices #
